@@ -24,8 +24,8 @@
  */
 
 #include <vector>
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
+#include "libXBMC_addon.h"
+#include "libXBMC_pvr.h"
 #include "p8-platform/threads/threads.h"
 #include "p8-platform/util/util.h"
 
