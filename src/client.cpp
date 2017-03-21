@@ -1,7 +1,7 @@
 #include "client.h"
 #include "ZatData.h"
-#include "kodi/xbmc_pvr_dll.h"
-#include "kodi/libKODI_guilib.h"
+#include "xbmc_pvr_dll.h"
+#include "libKODI_guilib.h"
 #include <iostream>
 
 
